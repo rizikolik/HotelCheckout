@@ -8,12 +8,12 @@
 
 <br>
 <p style="display:flex;flex-direction:row;margin-bottom:50px">
-<img alt="main" src="./assets/1.png"  width="45%" height="200px" style="margin-right:20px"/>
-<img alt="main" src="./assets/2.png" width="45%" height="200px" style="margin-right:20px"/>
+<img alt="main" src="./assets/1.png"  width="49%" height="400px" style="margin-right:20px"/>
+<img alt="main" src="./assets/2.png" width="49%" height="400px" style="margin-right:20px"/>
 </p>
 <p style="display:flex;flex-direction:row;margin-bottom:50px">
-<img alt="main" src="./assets/3.png"  width="45%"height="200px" style="margin-right:20px"/>
-<img alt="main" src="./assets/4.png" width="45%" height="200px"/>
+<img alt="main" src="./assets/3.png"  width="49%"height="400px" style="margin-right:20px"/>
+<img alt="main" src="./assets/4.png" width="49%" height="400px"/>
 </p>
 
 <details open="open">
