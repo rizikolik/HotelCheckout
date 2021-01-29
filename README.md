@@ -7,9 +7,11 @@
 </p>
 
 <br>
-<p style="display:flex;flex-direction:row;">
+<p style="display:flex;flex-direction:row;margin-bottom:50px">
 <img alt="main" src="./assets/1.png"  width="25%"  style="margin-right:20px"/>
 <img alt="main" src="./assets/2.png" width="25%"  style="margin-right:20px"/>
+</p>
+<p style="display:flex;flex-direction:row;margin-bottom:50px">
 <img alt="main" src="./assets/3.png"  width="25%" style="margin-right:20px"/>
 <img alt="main" src="./assets/4.png" width="25%" />
 </p>
@@ -59,7 +61,7 @@
 
 ### Prerequisites
 
-You must have the Node.js and npm installed before this steps.For more[Node.js](https://nodejs.org/en/download/) <br/s>
+You must have the Node.js and npm installed before this steps.For more[Node.js](https://nodejs.org/en/download/)
 
 ```sh
 npm i npm@latest -g
